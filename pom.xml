@@ -16,7 +16,7 @@
 	<properties>
 		<java.version>11</java.version>
 	</properties>
-<!-- Demo on Github Webhooks Jenkins-->
+<!-- Demo on Github Webhooks Jenkins Testing-->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
